@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest identifier="_5g45L5yCpdS" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+<manifest identifier="_6pNqyT7O1Hi" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
                               http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
                               http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
                               http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
@@ -9,11 +9,11 @@
     <schemaversion>2004 3rd Edition</schemaversion>
     <adlcp:location>metadata.xml</adlcp:location>
   </metadata>
-  <organizations default="CAA_Part_66_Essentials_ORG">
-    <organization identifier="CAA_Part_66_Essentials_ORG" adlseq:objectivesGlobalToSystem="false">
-      <title>CAA Part 66 Essentials</title>
-      <item identifier="CAA_Part_66_Essentials_SCO" identifierref="__5g45L5yCpdS_RES" isvisible="true">
-        <title>CAA Part 66 Essentials</title>
+  <organizations default="CAA_Part_147_Essentials_Short_ORG">
+    <organization identifier="CAA_Part_147_Essentials_Short_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>CAA Part 147 Essentials Short</title>
+      <item identifier="CAA_Part_66_Essentials_SCO" identifierref="__6pNqyT7O1Hi_RES" isvisible="true">
+        <title>CAA Part 147 Essentials Short</title>
       </item>
       <metadata>
         <adlcp:location>metadata.xml</adlcp:location>
@@ -25,7 +25,7 @@
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5g45L5yCpdS_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+    <resource identifier="__6pNqyT7O1Hi_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5o8WZB2Biex_80_P_118_0_1811_1365_DX1632_DY1632_CX1136_CY856.jpg" />
       <file href="mobile/6kJktTf97We_80_DX132_DY132_CX103_CY53.png" />
@@ -40,7 +40,7 @@
       <file href="story_content/5l2IpdevUfE_44100_48_0.mp3" />
       <file href="story_content/5lMNBUvNmNj_44100_48_0.mp3" />
       <file href="meta.xml" />
-      <file href="mobile/6Nb2N2rhYgo.png" />
+      <file href="mobile/6rQJ5y1YNE9.png" />
       <file href="story_content/user.js" />
       <file href="mobile/txt__default_6aZrb4ACyfm.png" />
       <file href="mobile/txt__default_5vYK1Lan1Lo.png" />
